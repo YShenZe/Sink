@@ -10,7 +10,7 @@
     </p>
     <div class="flex mt-5">
       <HomeLink
-        href="https://github.com/ccbikai/sink?tab=readme-ov-file#%EF%B8%8F-deployment"
+        href="https://qm.qq.com/q/SvMuZWteea"
         type="inverted"
         :title="$t('home.cta.button')"
       >
