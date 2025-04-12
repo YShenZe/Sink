@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: '梦泽短链接',
+  title: 'MzURL',
   email: 'administer@mengze.vip',
   github: 'https://github.com/ccbikai/',
   twitter: 'https://mzurl.xyz/kakmge',
