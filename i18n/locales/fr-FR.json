@@ -81,11 +81,6 @@
         "description": "Définissez des dates d'expiration pour vos liens"
       }
     },
-    "cta": {
-      "title": "Déploiement immédiat",
-      "description": "En quelques clics, vous pouvez commencer à déployer sans aucun frais",
-      "button": "Lancer le déploiement"
-    },
     "logos": {
       "title": "Construit avec de superbes technologies"
     },
