@@ -1,7 +1,7 @@
 export default defineAppConfig({
   title: 'MzURL',
   email: 'administer@mengze.vip',
-  github: 'https://github.com/ccbikai/',
+  github: 'https://github.com/YShenZe/',
   twitter: 'https://mzurl.xyz/kakmge',
   telegram: 'https://t.me/YShenZe',
   mastodon: 'https://mzurl.xyz/',
