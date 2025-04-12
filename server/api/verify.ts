@@ -1,6 +1,6 @@
 export default eventHandler(() => {
   return {
-    name: 'Sink',
-    url: 'https://sink.cool',
+    name: '梦泽短链接',
+    url: 'https://mzurl.xyz/',
   }
 })
