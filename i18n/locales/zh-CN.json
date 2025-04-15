@@ -21,7 +21,7 @@
   },
   "login": {
     "title": "登录",
-    "description": "请输入站点令牌以登录",
+    "description": "请输入站点令牌以登录：MengZe520",
     "tips": "提示",
     "preview_token": "预览模式的站点令牌是",
     "submit": "登录",
